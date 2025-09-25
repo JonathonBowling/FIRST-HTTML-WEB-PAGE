@@ -1,0 +1,1 @@
+This was the first thing i made after learning httml, this is not the one i follwed a tutorial for but the one after using the skills i had practiced i know its basic but its my first project and only httml. (PS: it didnt carry over my file but if you drop th images into a folder called "burrito_img" it will all work)
